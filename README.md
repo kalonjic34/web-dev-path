@@ -61,6 +61,13 @@ This repository serves as a roadmap to track my learning progress. You can:
 3. Use this roadmap as inspiration for your own development journey.
 
 ---
+## 🛠️ Projects
+
+Here are some projects that showcase my skills and learning:
+
+1. [**Jonathan's Travel Page**](https://github.com/kalonjic34/travel-page)  
+   A visually appealing travel page featuring destinations with images and descriptions.
+---
 
 ## Contributing
 
