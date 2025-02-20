@@ -67,6 +67,9 @@ Here are some projects that showcase my skills and learning:
 
 1. [**Jonathan's Travel Page**](https://github.com/kalonjic34/travel-page)  
    A visually appealing travel page featuring destinations with images and descriptions.
+
+2. [**Culinary Crave**](https://github.com/kalonjic34/culinary-crave)  
+   A delightful web application designed to showcase an array of delicious meals, allowing users to explore, interact with, and manage their culinary preferences.
 ---
 
 ## Contributing
