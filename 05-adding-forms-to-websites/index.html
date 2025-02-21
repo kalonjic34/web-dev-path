@@ -23,17 +23,17 @@
                 <ul>
                     <li>
                         <label for="username">Your name</label>
-                        <input type="text" name="user-name" id="username">
+                        <input type="text" name="user-name" id="username" required placeholder="Dylon Marks">
 
                     </li>
                     <li>
-                        <label for="useremail">Your email address</label>
+                        <label for="useremail" placeholder="Your email">Your email address</label>
                         <input type="email" name="user-email" id="useremail">
 
                     </li>
                     <li>
                         <label for="userpassword">Your password</label>
-                        <input type="password" name="user-password" id="userpassword">
+                        <input type="password" name="user-password" id="userpassword" required minlength="7">
 
                     </li>
                 </ul>
@@ -44,11 +44,11 @@
                 <ul>
                     <li>
                         <label for="userage">Your age</label>
-                        <input type="number" step="1" name="user-age" id="userage">
+                        <input type="number" step="1" name="user-age" id="userage" required min="18" max="100">
                     </li>
                     <li>
                         <label for="birthdate">Your birthdate</label>
-                        <input type="date" name="birthdate" id="user-birthdate">
+                        <input type="date" name="birthdate" id="user-birthdate" required min="1921-01-01">
                     </li>
                     <li>
                         <label for="favorite-color">Your favorite color?</label>
@@ -106,7 +106,7 @@
             </section>
 
             <section>
-                <button>Submit</button>
+                <button type="submit">Submit</button>
             </section>
         </form>
     </main>
